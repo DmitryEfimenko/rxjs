@@ -1,0 +1,23 @@
+{
+  "name": "@ngneat/rxjs",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Neat collection of RxJS utilities",
+  "homepage": "https://github.com/ngneat/rxjs#readme",
+  "bugs": {
+    "url": "https://github.com/ngneat/rxjs/issues"
+  },
+  "maintainers": [
+    "Dmitry Efimenko",
+    "Netanel Basal",
+    "Itay Oded"
+  ],
+  "keywords": [
+    "RxJS easy share",
+    "RxJS decorator share"
+  ],
+  "sideEffects": false,
+  "peerDependencies": {
+    "rxjs": "^6.0.0"
+  }
+}
